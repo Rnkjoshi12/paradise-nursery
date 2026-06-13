@@ -1,0 +1,17 @@
+.landing-page {
+  background-image: url("https://images.unsplash.com/photo-1416879595882-3373a0480b5b");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: white;
+}
+
+.landing-content {
+  text-align: center;
+  padding-top: 200px;
+}
+
+.get-started-btn {
+  padding: 12px 24px;
+  font-size: 18px;
+}
