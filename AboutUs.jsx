@@ -1,15 +1,19 @@
-function AboutUs() {
+﻿function AboutUs() {
   return (
-    <div>
-      <h1>About Paradise Nursery</h1>
+    <div className="about-page">
+      <h1 className="page-title">About Paradise Nursery</h1>
 
       <p>
-        Paradise Nursery provides beautiful indoor and outdoor plants
-        to plant lovers around the world.
+        Paradise Nursery is an online plant shop created to help plant lovers discover and purchase houseplants with confidence.
+        We specialize in indoor greenery, succulents, and flowering plants that bring warmth and life into every home.
       </p>
 
       <p>
-        Our mission is to bring nature closer to every home.
+        Our mission is to make plant care easy and enjoyable through thoughtfully selected products, clear pricing, and a friendly shopping experience.
+      </p>
+
+      <p>
+        Whether you're decorating a small apartment or cultivating a thriving indoor garden, Paradise Nursery is here to help you grow.
       </p>
     </div>
   );
