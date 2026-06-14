@@ -1,7 +1,11 @@
 ﻿function AboutUs() {
   return (
-    <div className="about-page">
+    <div className="about-us-container about-page">
       <h1 className="page-title">About Paradise Nursery</h1>
+
+      <p>
+        Repository: e-plantShopping.
+      </p>
 
       <p>
         Paradise Nursery is an online plant shop created to help plant lovers discover and purchase houseplants with confidence.
